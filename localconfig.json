@@ -1,0 +1,10 @@
+{
+  "verAddr": "https://tigranxkaierproxy-production.up.railway.app/",
+  "skipResourceDownload": false,
+  "skipVersionCheck": false,
+  "checkHacker": false,
+  "forceCrash": false,
+  "enableUGCFullCustom": true,
+  "showAllIngameTutorial": false,
+  "resetGuest": false
+}
